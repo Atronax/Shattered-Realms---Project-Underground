@@ -1,0 +1,7 @@
+add other special things
+
+animals:
+people:
+locations:
+religion:
+buildings:
